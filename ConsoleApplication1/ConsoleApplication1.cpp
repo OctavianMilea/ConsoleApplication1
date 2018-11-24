@@ -11,10 +11,8 @@ int main()
 	Students Y[100];
 
 
-    std::cout << "Hello World!\n"; 
 	std::cout <<x.getAge()<<'\n';
 	x.setAge(10);
-	std::cout << x.getAge();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
