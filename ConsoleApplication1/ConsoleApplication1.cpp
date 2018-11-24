@@ -8,7 +8,6 @@
 int main()
 {
 	Students x (1, 3);
-	Students Y[100];
 
 
 	std::cout <<x.getAge()<<'\n';
