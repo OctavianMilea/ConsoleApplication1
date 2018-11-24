@@ -8,7 +8,7 @@
 int main()
 {
 	Students x (1, 3);
-	//
+	/
 
 	std::cout <<x.getAge()<<'\n';
 	x.setAge(10);
